@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.head{
+    width: 100%;
+    background-color: #191919;
+}
+.top{
+    background-color: #191919;
+}
+.top img{
+    border: 2px solid white; 
+}
+.cv-btn{
+    background-color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

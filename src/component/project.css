@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mypro{
+    text-transform: capitalize;
+    font-weight:  bold;
+    font-size: 25px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.project{
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.thumbnail{
+    margin: auto;
+    text-transform: capitalize;
+    color: gray;
+    border: 2px solid black;
+}
+.thumbnail img{
+    width: 270px;
+    height: 160px;
+    border-radius: 10px;
+}
