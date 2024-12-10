@@ -20,8 +20,8 @@ const Home = () => {
       <div className=''><img  className='w-[250px] h-[250px] mx-auto rounded-full'  src={aksh} alt="" /></div>
 
       <div className='p-5 lg:text-left'>
-      <h1 className="text-[#D9D9D9] text-2xl mb-4">Hello, I am Ashok jangid</h1>
-      <h2 className="text-lime-800 font-bold text-3xl">
+      <h1 className="text-[#e6dbc9] text-2xl mb-4"><span>Hello,</span> I am Ashok jangid</h1>
+      <h2 className="text-[#be4f0c] font-bold text-3xl">
         {text}
         <Cursor />
       </h2>
