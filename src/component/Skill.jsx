@@ -13,14 +13,14 @@ import ohkws from '../assets/ohkws.png'
     <>
     <h3 className=' text-center skill'> Skills </h3>
       <div className='container grid w-full md:grid-cols-4 md:m-auto sm:grid-cols-3 p-5 gap-8 text-center'>
-           <div class="ui-values"><img src={html} alt="" /></div>
-            <div class="ui-values"><img src={css} alt="" /></div>
-            <div class="ui-values"><img src={js} alt="" /></div>
+           <div class="ui-values" data-aos="zoom-in"><img src={html} alt="" /></div>
+            <div class="ui-values" ><img src={css} alt="" /></div>
+            <div class="ui-values" data-aos="zoom-up"><img src={js} alt="" /></div>
             <div class="ui-values"><img src={react} alt="" /></div>
-            <div class="ui-values"><img src={ohkb} alt="" /></div>
+            <div class="ui-values" data-aos="zoom-down"><img src={ohkb} alt="" /></div>
             <div class="ui-values"><img src={ohkt} alt="" /></div>
-            <div class="ui-values"><img src={jq} alt="" /></div>
-            <div class="ui-values"><img src={ohkws} alt="" /></div>
+            <div class="ui-values" data-aos="zoom-left"><img src={jq} alt="" /></div>
+            <div class="ui-values" data-aos="zoom-right"><img src={ohkws} alt="" /></div>
     </div>
 
     </>

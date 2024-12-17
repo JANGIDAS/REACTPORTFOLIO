@@ -5,7 +5,7 @@ import './header.css'
   return (
     <>
     <nav>
-    <h3 className='logo'>Ashok jangid</h3>
+    <h3 className='logo'>Portfolio</h3>
     <ul>
         <li><Link to='/'>home</Link></li>
         <li><Link to='/about'>about</Link></li>

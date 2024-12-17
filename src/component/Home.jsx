@@ -17,7 +17,7 @@ const Home = () => {
     <>
     <div className='yes w-full'>
     <div className='container top py-3 grid md:grid-cols-2'>
-      <div className=''><img  className='w-[250px] h-[250px] mx-auto rounded-full'  src={aksh} alt="" /></div>
+      <div className='' data-aos="flip-left"><img  className='w-[250px] h-[250px] mx-auto rounded-full'  src={aksh} alt="" /></div>
 
       <div className='p-5 lg:text-left'>
       <h1 className="text-[#e6dbc9] text-2xl mb-4"><span>Hello,</span> I am Ashok jangid</h1>
@@ -33,7 +33,6 @@ const Home = () => {
       </div>
     </div>
     </div>
-    
     </>
   );
 };
