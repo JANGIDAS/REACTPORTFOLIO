@@ -8,7 +8,7 @@ import './header.css'
     <h3 className='logo'>Portfolio</h3>
     <ul>
         <li><Link to='/'>home</Link></li>
-        <li><Link to='/about'>about</Link></li>
+        <li><Link to='/project'>my projects</Link></li>
         <li><Link to='/skill'>skill</Link></li>
         <li><Link to='/contact'>contact</Link></li>
     </ul>
