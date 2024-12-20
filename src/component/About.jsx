@@ -19,8 +19,7 @@ import 'aos/dist/aos.css';
     <div className='container grid md:grid-cols-2'>
     <div className='text' data-aos="zoom-in">
       <h3 className='text-center'>about me</h3>
-      <p data-aos="zoom-in"> my self ashok jangid i have complate bechalor of computer application from gd memorial group of collages jodhpur rajasthan in 2019 
-      and i have done front-End developer course from oilab learning institute from jodhpur
+      <p data-aos="zoom-in">Hello, I'm Ashok Jangid, a driven and passionate tech enthusiast with a strong foundation in computer applications. Holding a Bachelor's degree in Computer Applications from GD Memorial Group of Colleges, Jodhpur, Rajasthan (2019), I've further honed my skills in front-end development through a specialized course at OILAB Learning Institute, Jodhpur.
       </p>
     </div>
       <div className='img' data-aos="fade-left">
